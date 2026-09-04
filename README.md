@@ -1,2 +1,2 @@
 # Assigment3
-![image1](dockerimagebuild.jpeg)
+![image1](dockerimagebuild.png)
