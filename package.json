@@ -1,0 +1,12 @@
+{
+  "name": "simple-app",
+  "version": "1.0.0",
+  "description": "A simple Node.js project",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "node --watch index.js",
+    "test": "echo \"No tests yet\" && exit 0"
+  },
+  "license": "MIT"
+}
